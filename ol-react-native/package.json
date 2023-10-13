@@ -1,0 +1,16 @@
+{
+  "name": "ol-react-native",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^4.0.4",
+    "vite-plugin-singlefile": "^0.13.5"
+  },
+  "dependencies": {
+    "ol": "latest"
+  }
+}
